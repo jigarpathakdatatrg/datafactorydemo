@@ -1,0 +1,9 @@
+{
+	"name": "jp-data-factory11",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0cde21f5-ae5d-4d99-b1f1-0434816ccd9e",
+		"tenantId": "f205558d-6e20-424d-a24b-1498e004284e"
+	}
+}
